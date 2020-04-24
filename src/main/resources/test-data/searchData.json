@@ -1,0 +1,10 @@
+{
+  "orderId" : "146566",
+  "company" : "TEST CUSTOMER",
+  "invoiceAddress" : "TEST ADDRESS, TEST TOWN, 111111",
+  "grade" : "Mixed Municipal Waste",
+  "weight" : "0.460 T",
+  "flatCharge" : "£100.00",
+  "perTonne" : "£4.60",
+  "item" : "£110.10"
+}
